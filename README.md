@@ -53,3 +53,5 @@ HexaVision is a **professional image forensics tool** that helps you:
 ```bash
 git clone https://github.com/YOUR_USERNAME/hexavision.git
 cd hexavision
+pip install opencv-python pillow exifread numpy pywavelets
+python hexavision_ai.py
