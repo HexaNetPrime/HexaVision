@@ -1,0 +1,5 @@
+pip install pillow exifread numpy tensorflow
+pip install tensorflow keras pillow numpy scikit-learn
+pip install deepface opencv-python dlib numpy pillow
+pip install opencv-python pillow exifread numpy pywavelets
+
